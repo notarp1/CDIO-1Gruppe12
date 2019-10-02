@@ -1,6 +1,10 @@
 # Terningespil
 
 Hey team, hver sød når i committer/pusher kun at vælge jeres scripts inde under .src(Blå filer) og ikke tingene under .idea (orange filer)
+DebugForHjælp skal fjernes inden aflevering
+
+Arbejd på development branchen
+Ændre teksten i Die til dansk
 
 Hvis nogle tør mangler vi at at gøre følgene, hvis vi vil.
 *Spilleren får en ekstra tur hvis spilleren slår to ens.
