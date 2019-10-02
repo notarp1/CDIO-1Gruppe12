@@ -6,7 +6,6 @@ public class RollingDice {
     //-----------------------------------------------------------------
     public static void main(String[] args) {
 
-
         Die die1;
         Die die2;
         Die die3;

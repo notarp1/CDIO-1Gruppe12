@@ -61,13 +61,13 @@ public class DebugForHjaelp {
                     p1Sum = p1Sum + sum1;
                 p2Sum = p2Sum + sum2;
 
-                System.out.println("Spiller 1: " + "Die One: " + die1 + ", Die Two: " + die2);
-                System.out.println("Spiller 1 total = " + p1Sum);
+                     System.out.println("Spiller 1: " + "Die One: " + die1 + ", Die Two: " + die2);
+                     System.out.println("Spiller 1 total = " + p1Sum);
 
-                System.out.println();
+                     System.out.println();
 
-                System.out.println("Spiller 2: " + "Die One: " + die3 + ", Die Two: " + die4);
-                System.out.println("Spiller 2 total = " + p2Sum);
+                     System.out.println("Spiller 2: " + "Die One: " + die3 + ", Die Two: " + die4);
+                     System.out.println("Spiller 2 total = " + p2Sum);
 
                 System.out.println();
 
@@ -79,10 +79,7 @@ public class DebugForHjaelp {
                     System.out.println("Spiller 1 starter forfra");
                     System.out.println();
 
-
-
                 } else
-
 
 
                     //If statement der tjekker om spiller 2's to terninger er to 1'ere
@@ -94,9 +91,6 @@ public class DebugForHjaelp {
                         System.out.println();
 
                         //Hvis begge spilleres terningen rammer over 40 på samme tid er det uafjort.
-
-
-
 
                     } else if (p2Sum >= 40 && p1Sum >= 40) {
 
