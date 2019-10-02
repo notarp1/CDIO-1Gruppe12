@@ -65,7 +65,12 @@ public class RollingDice {
                     toEns1 = true;
                 }else if (terningTal3 == 1 && terningTal4 == 1){
                     toEns2 = true;
+                } else if (terningTal1 == 3 && terningTal2 == 3){
+                    toEns1 = true;
+                } else if (terningTal3 == 3 && terningTal4 == 3) {
+                    toEns2 = true;
                 } else
+
 
                     // Hvis ikke det er to 1'ere, lægger programmet den gamle sum til den nye, som er p1Sum og p2Sum
                     p1Sum = p1Sum + sum1;
