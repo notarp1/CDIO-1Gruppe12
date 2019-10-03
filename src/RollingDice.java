@@ -58,8 +58,7 @@ public class RollingDice {
                 // Laver en boolean (true/false)
                 boolean toEns1 = false;
                 boolean toEns2 = false;
-                boolean toSeks1 = false;
-                boolean toSeks2 = false;
+
 
                 // Tjekker om taller på terningerne er to 1'ere
                 if (terningTal1 == 1 && terningTal2 == 1){
@@ -112,9 +111,7 @@ public class RollingDice {
                         //Hvis begge spilleres terningen rammer over 40 på samme tid er det uafjort.
 
 
-
-
-                    } else if (p2Sum >= 40 && p1Sum >= 40) {
+                    }  else if (p2Sum >= 40 && p1Sum >= 40) {
 
                         System.out.println("Uafgjort!");
 
