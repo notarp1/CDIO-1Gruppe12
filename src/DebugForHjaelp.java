@@ -1,5 +1,6 @@
 public class DebugForHjaelp {
     //-----------------------------------------------------------------
+    //
     // DEBUG HVIS DU VIL FORSTÅ HVAD DER SKER
     // Marker linje 23, 24, 27 28 ved at klikke ud fra linjen nummeret, (I kan også vælge andre linjer)
     // Tryk på kør knappen og klik Run debug

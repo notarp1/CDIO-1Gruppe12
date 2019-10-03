@@ -69,6 +69,10 @@ public class RollingDice {
                     toEns1 = true;
                 } else if (terningTal3 == 3 && terningTal4 == 3) {
                     toEns2 = true;
+                } else if (terningTal1 == 5 && terningTal2 == 5){
+                    toEns1 = true;
+                } else if (terningTal3 == 5 && terningTal4 == 5) {
+                    toEns2 = true;
                 } else
 
 
